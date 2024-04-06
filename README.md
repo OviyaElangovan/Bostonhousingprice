@@ -1,4 +1,4 @@
-# Bostonhousingprice
+# Housingprice
 # Software and Tools Requirements
 1.[GithubAccount](https://github.com)
 
